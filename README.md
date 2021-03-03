@@ -1,6 +1,6 @@
 # The Django Test
 
-[<a href="https://github.com/imakecodes"> IMakeCodes] Challenge me to take a Django Test from a 
+[<a href="https://github.com/imakecodes"/>IMakeCodes] Challenge me to take a Django Test from a 
   job interview to test my programming skills
   Since i love some
 
