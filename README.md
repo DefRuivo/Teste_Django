@@ -1,7 +1,6 @@
 # The Django Test
 
-[IMakeCodes](https://github.com/imakecodes) challenge me to take a Django Test from a job interview to test my programming skills.
-
+[IMakeCodes](https://github.com/imakecodes) challenge me to take a Django Test from a job interview to test my programming skills. \
 Since i love challenges i accepted it, this is the result of my work
 
 ## The Challenge
