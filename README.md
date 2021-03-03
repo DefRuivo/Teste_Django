@@ -1,12 +1,12 @@
 # The Django Test
 
-[IMakeCodes](https://github.com/imakecodes) Challenge me to take a Django Test from a 
-  job interview to test my programming skills
-  Since i love some
+[IMakeCodes](https://github.com/imakecodes) challenge me to take a Django Test from a \
+job interview to test my programming skills.\
+Since i love some
 
 ## The Challenge
 
-An API that consumes a GeoCODE API to list the Geolocalization of every customer on
+An API that consumes a GeoCODE API to list the Geolocalization of every customer on\
 a spreedsheet that contains 1000 customers. 
 
 The information given from every customer on the spreedsheet is:
