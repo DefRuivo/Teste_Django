@@ -30,7 +30,7 @@ The information given from every customer on the spreedsheet is:
 - On terminal type: python manage.py runserver
 - Search for "localhost:8080/customers"
 - Talk to yourself: "Why there is no customers info?"
-- Well that obvious, there is no database, we will fill it with the customers info and request theirs Geolocalization with [Position Stack](https://https://positionstack.com/)'s API
+- Well that is obvious, there is no database, we will fill it with the customers info and request theirs Geolocalization with [Position Stack](https://https://positionstack.com/)'s API
 - Again go for terminal and type: python manage.py parsedata --path {CSV File's path} --gkey {Positions Stack's GeocodeKey} \
   Ex.: ```python manage.py parsedata /some/folder/customers.csv --gkey Th1Sm1gHtB34K3y```
 - And again run: python manage.py runserver
@@ -98,4 +98,10 @@ with open(file_path, 'r') as f:
         )
 ```
 
+## Api documentation
+
+https://studio-ws.apicur.io/sharing/ea1ac162-c456-41c2-97ba-1386ae44e9b0
+
 ## Special Thanks
+
+[IMakeCodes](https://github.com/imakecodes) - Giving me the challenge and for reviewing my code
