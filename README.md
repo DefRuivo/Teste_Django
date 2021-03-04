@@ -38,7 +38,7 @@ The information given from every customer on the spreedsheet is:
 
 ## How it works
 
-The most import part is the command part ```parsedata.py```\ 
+The most import part is the command part ```parsedata.py``` \ 
 We will use 2 arguments one for the CSV File path to parse the data stored in the spreedsheet \
 And another argument to use the Position Stacks API Geocode Key for security measures
 
